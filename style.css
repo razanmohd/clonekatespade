@@ -1,0 +1,223 @@
+*{
+    font-family: "Playfair Display", serif;
+}
+
+#carouselExampleAutoplaying{
+    height: 35px;
+    background-color: black;
+}
+
+#carouselExampleAutoplaying a{
+    color: white;
+    text-decoration: none;
+}
+#carouselExampleAutoplaying p{
+    font-size: small;
+    margin: 7.4px;
+}
+
+.container-md{
+    color: white;
+}
+
+video{
+    background-size: cover;
+}
+
+.banner1{
+    position: absolute;
+}
+
+.navbar{
+    width: 100%;
+}
+
+#banner2{
+    gap: 20px;
+}
+
+#home{
+    margin-left: 130px;
+    height: 10px;
+}
+
+#home ul li{
+    font-size: 13px;
+    margin: 7px;
+}
+
+#home ul li a{
+    color: white;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+}
+
+.container-md{
+    position: absolute;
+    bottom: 700px;
+    left: 120px;
+}
+
+#navbarScroll{
+    position: absolute;
+    bottom: 650px;
+    left: 118px;
+}
+
+.container-md p{
+    font-size: 15px;
+}
+
+
+#search{
+    padding-left: 455px;
+}
+
+#kate{
+    margin-left: 480px;
+     color: white;
+}
+
+#newyork{
+    margin-left: 506px;
+    color: white;
+}
+
+#bannerall{
+    width: 100%;
+}
+
+
+
+#cmng .col-2 img{
+    width: 252px;
+    height: 300px;
+}
+
+#cmng .row{
+    display: flex;
+}
+
+#cmng a {
+    color: black;
+}
+
+#band a{
+    color: black;
+
+}
+
+#band .row{
+    display: flex;
+
+
+}
+
+#band .row{
+    margin: 5px;
+    display: flex;
+}
+
+#band .col{
+    margin-left: 0px;
+}
+
+
+
+#band .row img{
+    width: 250px;
+
+}
+
+#sse{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 50px;
+}
+
+.div1{
+    padding-top: 100px;
+    padding-left: 80px;
+}
+
+#img1{
+    padding-left:71px;
+}
+
+#img3{
+
+    /* padding-left: -10px; */
+}
+
+
+#dakota .col{
+    display: block;
+}
+
+#wer{
+    max-width: 100%;
+    margin-left: -50px;
+    
+}
+
+#dakota a{
+    color: black;
+
+}
+
+#signup{
+    
+        background-color: black;
+        color: white;
+        width: 80px;
+        height: 50px;
+        margin-top: 5px;
+    
+}
+
+#footer a{
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-size: small;
+}
+
+
+#footer a:hover{
+    text-decoration: underline;
+}
+
+#form5Example26{
+    width: 550px;
+    margin-top: 5px;
+    height: 50px;
+}
+
+#links{
+    margin-right:500px;
+}
+
+#link1{
+    margin-right: 170px;
+}
+
+#footer1 a{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
